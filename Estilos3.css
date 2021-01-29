@@ -1,0 +1,22 @@
+form{
+    background-color: firebrick ;
+border-radius: 30px;
+color: gold;
+font-size: 18px;
+padding: 20px;
+margin: 0px auto;
+width: 300px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+}
+
+input, textarea{
+    border: 0;
+    outline: none;
+    width: 280px;
+
+}
+
+.campo:focus{
+    border-color: gold;
+}
